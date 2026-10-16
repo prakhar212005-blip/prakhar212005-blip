@@ -44,7 +44,7 @@ Final-year B.Tech. student in Electronics and Communication Engineering at Manip
       <code>LTspice</code> <code>RF Design</code> <code>Analog</code>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/prakhar212005-blip/VLSI-Testing-and-Testabiltiy"><b>VLSI Testing &amp; Design-for-Testability</b></a><br>
+      <a href="https://github.com/prakhar212005-blip/VLSI-Testing-and-Testability"><b>VLSI Testing &amp; Design-for-Testability</b></a><br>
       Stuck-at fault models, serial fault simulation with force/release injection, an LFSR test-pattern generator and a 4-bit scan chain.<br>
       <code>SystemVerilog</code> <code>Icarus Verilog</code> <code>DFT</code>
     </td>
